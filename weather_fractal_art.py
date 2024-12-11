@@ -6,7 +6,7 @@ import random
 import colorsys
 
 # API configuration
-API_KEY = "1236163ba879cdc934eac57551308fbe"
+API_KEY = " "
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?q={}&appid={}&units=metric"
 
 # Pygame
